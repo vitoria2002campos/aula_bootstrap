@@ -1,0 +1,35 @@
+#inicio{
+    background-image: linear-gradient(rgb(209, 244, 255), rgb(138, 231, 243), rgb(248, 179, 242));
+    background-size: 100%; 
+}
+
+.margin{
+    padding-top: 50px;
+}
+
+p{
+    font-size: 30px;
+    font-family:sans-serif;
+}
+
+.fonte{
+    font-size: 25px;
+    font-family:sans-serif;
+   
+}
+
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#6600c6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+ 
+
+    
